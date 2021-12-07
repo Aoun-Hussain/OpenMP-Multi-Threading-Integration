@@ -1,20 +1,4 @@
 /*
-Author: Aoun Hussain
-Class: ECE 6122-A
-Last Date Modified: Wed, Oct 13, 2021
-Description: This is the cpp source file for the solution of problem 2, lab 2.
-             This source file takes an input N as a whole number in the command
-             line argument and calculates the integral of the expression in the
-             question using the midpoint rule and openMP library. The resulting
-             integral estimate is then output in the Lab2Prob2.txt file.
-
-Instructions for Compiling:
-            Please use the following command to compile without errors on Pace-Ice:
-
-            "g++ -std=c++17 -fopenmp Lab2_Problem2.cpp -o test2"
-*/
-
-/*
  References:
     https://bisqwit.iki.fi/story/howto/openmp/
     https://tutorial.math.lamar.edu/classes/calcii/approximatingdefintegrals.aspx
